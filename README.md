@@ -1,2 +1,2 @@
 # FlightSystemTask
-System for flights processing. Система обрабатывания авиарейсов.
+Module of system for flights processing. Модуль системы обрабатывания авиарейсов.
